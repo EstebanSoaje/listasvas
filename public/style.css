@@ -1,0 +1,27 @@
+.listado {
+    margin: auto;
+    padding: 50px;
+}
+
+.fa-download,.fa-box, .fa-whatsapp {
+    height: 50px;
+    padding: 15px;
+}
+
+.pie{
+    background-color: rgb(220, 239, 255);
+    position: relative;
+    margin-top: 20px;
+    text-align: center;
+}
+.navbar{
+    box-shadow: 0px 0px 10px black;
+    background-color: rgb(220, 239, 255);
+}
+.btn{
+    margin-left: 25%;
+    text-align: center;
+}
+.logo{
+    height: 30px;
+}
